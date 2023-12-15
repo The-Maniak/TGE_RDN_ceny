@@ -3,3 +3,4 @@ TGE_daily/*
 poetry.lock
 pyproject.toml
 .idea
+.pythonlibs
